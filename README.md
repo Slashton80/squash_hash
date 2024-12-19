@@ -1,5 +1,5 @@
 ## About the Project
-This project was developed as part of my CIS coursework at Holland College PEI.
+This project was developed as part of my CIS coursework at Holland College PEI in 2024.
 
 # Intermediate Java Squash Skills Assessment App
 
